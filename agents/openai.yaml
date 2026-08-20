@@ -1,4 +1,4 @@
 interface:
   display_name: "老王内容定位——小红书版"
-  short_description: "强建议约束下完成小红书账号、商业、内容定位与验证修订"
-  default_prompt: "使用 $laowang-xiaohongshu-positioning 帮我完成小红书定位；当我的特长证据或付费结果不足时，完整比较自媒体、AI 和融合路径。"
+  short_description: "用身份、目标、理念完成小红书定位、简介包装与验证迭代"
+  default_prompt: "使用 $laowang-xiaohongshu-positioning 从身份、目标、理念帮我完成小红书定位，并提炼一版有真实关注理由的主页包装。"
